@@ -9,8 +9,7 @@ An end-to-end machine learning system designed to predict diabetes risk using cl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/healthcare-ml.git
-cd healthcare-ml
+git clone https://github.com/Srikumar6529/Diabetes-Predictor
 ```
 
 ### 2. Install Dependencies
@@ -122,22 +121,16 @@ The Streamlit app provides:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is for educational and research purposes only.
-It should not be used as a substitute for professional medical advice.
-
----
 
 ## 📌 Future Work
 
 * Integration with real-world healthcare datasets
 * Advanced models (e.g., deep learning)
 * Deployment as a web service
-* Enhanced explainability (e.g., SHAP values)
+
 
 ---
 
 ## 👨‍💻 Author
 
-Built as part of a machine learning project focused on healthcare applications and research-oriented system design.
+Sri Kumar 
